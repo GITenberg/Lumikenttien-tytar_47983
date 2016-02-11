@@ -1,0 +1,26 @@
+_repo: Lumikenttien-tytar_47983
+contributor:
+  translator:
+    agent_name: Tudeer, Aune
+    gutenberg_agent_id: '44556'
+    url: http://www.gutenberg.org/2009/agents/44556
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2015-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47983'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Lumikenttien tytär
+url: http://www.gutenberg.org/ebooks/47983
